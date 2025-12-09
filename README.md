@@ -6,8 +6,6 @@ Select music and libraries belong to their respective owners. <br>
 
 There are no game releases for now. The only way to run the game is to install the Love2D framework executable and download a copy of the source code. Refer to https://love2d.org/
 
-By Shaurya Chanchal.
-
 **Done**
 - [x] Implement sidescroller movement system
 - [x] Make all systems modular 
