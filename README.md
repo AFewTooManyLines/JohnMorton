@@ -4,8 +4,7 @@ A short, episodic, story-driven game made using the Love2D game framework. <br>
 This project is open-source. You are allowed to copy, study or modify the source code in any way you see fit. Assets (item art, spritesheets, backgrounds) are under the Creative Commons Attribution 4.0 license. You are not allowed to use them for commerical projects. <br>
 Select music and libraries belong to their respective owners. <br>
 
-There are no game releases for now. The only way to run the game is to install the Love2D framework executable and download a copy of the source code. <br>
-Refer to https://love2d.org/
+There are no game releases for now. The only way to run the game is to install the Love2D framework executable and download a copy of the source code. Refer to https://love2d.org/
 
 By Shaurya Chanchal.
 
