@@ -39,8 +39,8 @@ There are no game releases for now. The only way to run the game is to install t
 - [ ] Dash mechanic
 
 **Scrapped**
-- [ ] <s> Scattered resources throughout all maps </s>
-- [ ] <s> Gun effects / particles (just edit spritesheets) </s>
+- [ ] Scattered resources throughout all maps
+- [ ] Gun effects / particles (just edit spritesheets)
 
 **Extra features**
 - [ ] Dual wielding weapons
